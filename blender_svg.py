@@ -7,7 +7,7 @@ import xml.etree.cElementTree as ET
 
 ET.register_namespace("","http://www.w3.org/2000/svg")
 
-file_name = "C:/Users/van/Documents/tests/testa.svg" #your filename here!
+file_name = "test.svg" #your filename here!
 doc_width = "1000px"
 doc_height = "1000px"
 factor = 30 # Path Size not Document
